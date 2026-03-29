@@ -1,0 +1,174 @@
+{
+  "skills": [
+    {
+      "name": "JavaScript",
+      "tier": "core"
+    },
+    {
+      "name": "React",
+      "tier": "core"
+    },
+    {
+      "name": "Node.js",
+      "tier": "core"
+    },
+    {
+      "name": "TypeScript",
+      "tier": "core"
+    },
+    {
+      "name": "Next.js",
+      "tier": "core"
+    },
+    {
+      "name": "Express.js",
+      "tier": "strong"
+    },
+    {
+      "name": "HTML",
+      "tier": "strong"
+    },
+    {
+      "name": "CSS",
+      "tier": "core"
+    },
+    {
+      "name": "Tailwind CSS",
+      "tier": "strong"
+    },
+    {
+      "name": "Vue.js",
+      "tier": "strong"
+    },
+    {
+      "name": "PostgreSQL",
+      "tier": "strong"
+    },
+    {
+      "name": "REST API",
+      "tier": "strong"
+    },
+    {
+      "name": "Prisma",
+      "tier": "strong"
+    },
+    {
+      "name": "Python",
+      "tier": "core"
+    },
+    {
+      "name": "MySQL",
+      "tier": "strong"
+    },
+    {
+      "name": "WebSocket",
+      "tier": "strong"
+    },
+    {
+      "name": "MongoDB",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Django",
+      "tier": "peripheral"
+    },
+    {
+      "name": "C++",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Git",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Docker",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Agile",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Scrum",
+      "tier": "peripheral"
+    },
+    {
+      "name": "ROS 2",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Gazebo",
+      "tier": "peripheral"
+    },
+    {
+      "name": "GNN",
+      "tier": "peripheral"
+    }
+  ],
+  "titles": [
+    "Full Stack Intern",
+    "Junior Full Stack Developer",
+    "Frontend Developer Intern",
+    "Backend Developer Intern"
+  ],
+  "keywords": [
+    "javascript",
+    "react",
+    "node.js",
+    "typescript",
+    "next.js",
+    "express.js",
+    "html",
+    "css",
+    "tailwind css",
+    "vue.js",
+    "postgresql",
+    "rest api",
+    "prisma",
+    "python",
+    "mysql",
+    "websocket",
+    "mongodb",
+    "django",
+    "c++",
+    "git",
+    "docker",
+    "agile",
+    "scrum",
+    "ros 2",
+    "gazebo",
+    "gnn"
+  ],
+  "locations": [
+    "Adelaide",
+    "Sydney",
+    "Melbourne",
+    "Remote"
+  ],
+  "roles": [
+    "Full Stack Intern",
+    "Junior Full Stack Developer",
+    "Frontend Developer Intern",
+    "Backend Developer Intern"
+  ],
+  "weights": {
+    "companyTier": 1,
+    "location": 1,
+    "titleMatch": 1,
+    "skills": 1,
+    "sponsorship": 1,
+    "recency": 1,
+    "culture": 1,
+    "quality": 1
+  },
+  "minScore": 20,
+  "maxHours": 24,
+  "resultsPerSearch": 20,
+  "excludeSeniority": [
+    "senior",
+    "lead",
+    "staff",
+    "director",
+    "executive"
+  ]
+}
